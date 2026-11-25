@@ -1,7 +1,7 @@
 # RISC-V Approximate Instructions Implementation
 
-**Author:** Daniela Luiza Catelan  
-**Affiliation:** Professor at Federal University of Mato Grosso do Sul (UFMS)
+**Author:** Hytalo Bassi e Daniela Luiza Catelan  
+**Affiliation:** Federal University of Mato Grosso do Sul (UFMS)
 
 ---
 
